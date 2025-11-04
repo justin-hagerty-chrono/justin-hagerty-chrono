@@ -1,16 +1,18 @@
-## Hi there 👋
+---
 
-<!--
-**justin-hagerty-chrono/justin-hagerty-chrono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Justin Hagerty
 
-Here are some ideas to get you started:
+### Partner Sales Engineer | Chronosphere
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub! I work at **[Chronosphere](https://chronosphere.io/)** — the leading cloud-native observability platform — where I help **partners, alliances, and joint customers** build scalable, high-performing observability solutions across distributed systems.
+
+---
+
+## 📫 Let’s Connect
+
+* 🌐 [chronosphere.io](https://chronosphere.io/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/justin-s-hagerty/)
+* 🧰 [GitHub Projects](https://github.com/justin-hagerty-chrono)
+* 📧 [justin.hagerty@chronosphere.io](mailto:justin.hagerty@chronosphere.io)
+
+---
